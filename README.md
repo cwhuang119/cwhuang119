@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Tom Huang.
-- 👀 I’m interested in Deep learning.
-- 🌱 I’m currently learning ETL pipelines.
-- 💞️ I’m looking to collaborate on stock price api.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/tom-huang-78822840/)
 
 <!---
